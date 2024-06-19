@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonathan Naal</h1>
 <h3 align="center">Javascript | PHP | Backend | API Rest | GitHub | Sql | Postman</h3>
 
-- 🌱 I’m currently learning **Python, Linux, Angular**
-
 - ⚡ Fun fact **Buscando al "Legendario programador HTML"**
 
 <h3 align="left">Connect with me:</h3>
